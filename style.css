@@ -1,0 +1,15 @@
+.background {
+    background-image: url('./image/imag.JPG');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  h1 ,h2, a {
+    color: #fff;
+    text-decoration: none;
+
+  }
